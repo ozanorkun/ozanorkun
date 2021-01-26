@@ -2,7 +2,7 @@
 
 This is **Ozan ORKUN** :octocat:
 
-I graduated from Electrical Engineering :mortar_board: but I am interested in web :computer: and mobile :iphone: software development, living in **Istanbul, Turkey**.
+I graduated from Electrical/Electronic Engineering :mortar_board: but I am interested in web :computer: and mobile :iphone: software development, living in **Istanbul, Turkey**.
 
 I am writing on [**Medium**](https://ozanorkun.medium.com/) and my [**Blog Site**](http://ozanorkun.com/). I love being part of development of web, mobile and IoT technologies.
 
