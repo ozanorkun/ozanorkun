@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, this is **Ozan ORKUN** :octocat:
+This is **Ozan ORKUN** :octocat:
 
 I graduated from Electrical Engineering :mortar_board: but I am interested in web :computer: and mobile :iphone: software development, living in **Istanbul, Turkey**.
 
