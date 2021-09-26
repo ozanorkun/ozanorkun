@@ -2,7 +2,7 @@
 
 This is **Ozan ORKUN** :octocat:
 
-I graduated from Electrical/Electronic Engineering also I am interested in web :computer: software development.
+I graduated from Electrical/Electronic Engineering also I am interested hardware, embedded software development.
 
 I am writing on [**Medium**](https://ozanorkun.medium.com/) and my [**Blog Site**](http://ozanorkun.com/). I love being part of technology development.
 
